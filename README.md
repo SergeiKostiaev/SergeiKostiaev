@@ -1,9 +1,34 @@
-- 👋 Hi, I’m @SergeiKostiaev
-- 👀 I’m interested in web-dev
-- 🌱 I’m currently learning web-dev
-- 💞️ I’m looking to collaborate on many company, becouse i will want doing fur their web-dev
-- 📫 How to reach me skprod.info@gmail.com 
-<!---
-SergeiKostiaev/SergeiKostiaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Костяев Сергей Витальевич
+
+tel: +7 (916) 370-84-19, WhatsApp, Telegram
+
+e-mail: skprod.info@gmail.com
+
+В данный момент прохожу обучение на курсе «Веб-разработчик с нуля» в онлайн университете Нетология.
+
+Я открыт для предложений о стажировке / неполной занятости.
+
+## Технические навыки
+* ***Языки программирования:*** JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой);
+* ***Фреймворки:*** Jest;
+* ***Библиотеки:*** Изучение июнь-июль;
+* ***Технологии и инструменты:*** HTML, CSS, Babel, esLint, WebPack, websocket, ServiceWorkers, WebWorkers, npm, yarn, git, Appveyor, Heroku.
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/0b85785958a9c023bd3869f5321e318a63faafe9943e1503f782b9d5b2e1b516/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6e706d2d332d313137353133322e706e67"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
+
+***Мои учебные проекты:*** [GitHub](https://github.com/SergeiKostiaev?tab=repositories).
+
+***GitHub статистика:***
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SergeiKostiaev&show_icons=true&theme=dark" alt="sergei_kostiaev"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiKostiaev&layout=compact&theme=dark" alt="sergei_kostiaev"/>
+
