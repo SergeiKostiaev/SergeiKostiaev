@@ -10,8 +10,8 @@ e-mail: skprod.info@gmail.com
 Я открыт для предложений о стажировке / неполной занятости / полной занятости.
 
 ## Технические навыки
-* ***Языки программирования:*** JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой);
-* ***Фреймворки:*** Jest;
+* ***Языки программирования:*** JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой), PHP;
+* ***Фреймворки:*** Jest, Laravel;
 * ***Библиотеки:*** React, React Router, React Context, React redux;
 * ***Технологии и инструменты:*** HTML, CSS, Babel, esLint, WebPack, React, websocket, ServiceWorkers, WebWorkers, npm, yarn, git, Appveyor, Heroku.
 
