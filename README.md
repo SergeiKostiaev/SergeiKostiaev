@@ -5,7 +5,7 @@
 e-mail: skprod.info@gmail.com
 
 Прошел обучение [«Веб-разработчик с нуля»](https://netology.ru/programs/web-developer) в онлайн университете [Нетология](https://netology.ru/).
-Так же получаю СПО по напровлению "Программист" в  Ижевском Государственном Техническом университете им. М.Т.Калашникова. 
+Присутствует диплом СПО по направлению "Программист" в  Ижевском Государственном Техническом университете им. М.Т.Калашникова.
 
 Я открыт для предложений о стажировке / неполной занятости / полной занятости.
 
@@ -25,8 +25,9 @@ e-mail: skprod.info@gmail.com
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/0b85785958a9c023bd3869f5321e318a63faafe9943e1503f782b9d5b2e1b516/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6e706d2d332d313137353133322e706e67"></code>
+<code><img height="30" src="https://img.icons8.com/color/200/redux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
+<code><img height="30" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/babel-1.png"></code>
 
 ***Мои учебные проекты:*** [GitHub](https://github.com/SergeiKostiaev?tab=repositories).
 
