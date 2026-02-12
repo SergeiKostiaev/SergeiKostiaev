@@ -33,6 +33,8 @@ e-mail: skprod.info@gmail.com
 
 ***GitHub статистика:***
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SergeiKostiaev&show_icons=true&theme=cobalt" alt="sergei_kostiaev"/> -->
-<p align="left"> <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiKostiaev&layout=compact&theme=cobalt](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="sergei_kostiaev"/>
+<p align="left"> <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiKostiaev&layout=compact&theme=cobalt](https://github-readme-stats.vercel.app/api?username=SergeiKostiaev&show_icons=true&theme=radical)" alt="sergei_kostiaev"/>
+<p align="left"> <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiKostiaev&layout=compact&theme=cobalt](https://github-readme-stats.vercel.app/api?username=SergeiKostiaev&theme=cobalt&show_icons=true)" alt="sergei_kostiaev"/>
+
 
 
